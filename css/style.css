@@ -1,0 +1,32 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+.carousel-inner img
+{
+    width:100%;
+    height: 90vh;
+}
+
+#t
+{
+    height: 46%;
+    width: 90%;
+    
+    padding-top: 12px;
+}
+
+#s
+{
+    color:chocolate;
+    padding: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.y
+{
+    margin-left: 300px;
+}
